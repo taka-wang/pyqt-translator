@@ -1,0 +1,4 @@
+PyQt5
+opencc-python-reimplemented
+PyInstaller
+pyinstaller-hooks-contrib

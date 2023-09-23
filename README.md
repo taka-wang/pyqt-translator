@@ -21,7 +21,7 @@ You can build and package the application using PyInstaller. Here are the steps 
 3. Build the application using PyInstaller:
 
    ```bash
-   pyinstaller --name "translator" --windowed app.py
+   pyinstaller --name "translator" --icon "app.icns" --windowed app.py
    ```
 
    This command will create a `dist` directory containing the standalone application.
